@@ -1,0 +1,1 @@
+<input name="zack_newsletter_file" type="file"><?php echo get_option('zack_newsletter_file')?>
